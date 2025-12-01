@@ -7,7 +7,7 @@ SendVia automatically triggers targeted email sequences.
 ## 🛠 Installation
 
 1. In PostHog → **Browse Apps → Advanced**
-2. Paste your GitHub repo URL: https://github.com/sendvia/sendvia-posthog-app
+2. Paste your GitHub repo URL: https://github.com/Rocksasi/sendvia-posthog-app
 3. Configure settings:
 - **API Key** (from SendVia dashboard)
 - **Workspace ID**
